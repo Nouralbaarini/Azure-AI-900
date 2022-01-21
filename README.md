@@ -1,1 +1,1 @@
-# Azure-AI-900
+# Azure AI-900 Fundamental 
